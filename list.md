@@ -11,66 +11,188 @@
 - Majruszs Progressive Difficulty
 - DifficultRaids
 - Champions
+- Mimic_Mod
+- Tough_As_Nails
+- EldritchMobs
+- NaturallyChargedCreepers
 
 ## QoL
-- BetterDefaultBiomes
+### Visual
+- ReBlured
+- LootBeams
+- VisualWorkbench
+- ImmersivePortals
+- biomeMakeover
+- Illuminations
+- Chunks_fade_in
+- ItemBorders
+- Droplight
+- PhysicsMod
+### util
 - JEI
 - JER
 - AppleSkin
 - Cloth Config API
 - JourneyMAP
-- Clumps
 - Quark
-- Nature's Compass
 - CarryOn
+- OreExcavation
+- DynamicTrees
+  - DynamicTrees-Quark
+- harvest_with_ease
+- DurabilityTooltip
+- SquatGrowth
+- TreeHarvester
+- ReapMod
+- LapisReserve
+### opt
+- Clumps
+### multiplayer
+- Lootr
+### other
+- CeilingTorch
+- WaterloggedRestone
+- TheSplashMilk
+- Nature's Compass
+- Explorer'sCompass
 - IronChests
 - Torchmaster
 - FastFurnace
-- Lootr
-- FluxNetworks
-- Corpse
-- XNet
-- EnderStorage
-- Artifacts
-- VisualWorkbench
-- OreExcavation
-- YungsBridges
 - IronFurnaces
+- FluxNetworks
+- XNet
+- Corpse
 - GraveStoneMod
-- Explorer'sCompass
 - Baubley Heart Canisters
 - Traveler'sBackpackpack
 - MagnumTorch
-- LootBeams
-- DynamicTrees
-- TiledCauldron
-- Fabric DispenserCauldron
+- Windchimes
+- SkinnedLanterns
+- InventoryPets
+- BonsaiTrees3
 
 ## Key mods
-- MysticalAgriculture
-- Aquaculture2
-- HostileNeuralNetworks
+### Magic
+- ToolLeveling
+- InfusionTable
+- EnchantingInfuser
+- EnhancedCelestials
+- Lil'Wings
 - Spirit
-- SereneSeasons
-- Waystones
-- CulturalDelights
-- Farmer's Delight
-- Nether'sDelights
-- BonsaiTrees3
-- Apotheosis
-- TheTwilightForest
-- Create
-- Mekanism
-- AppliedEnergistics2
-- Botania
-- ImmersiveEnineering
-- TinkersConstruct/SilentGear
-- Mystical Agriculture
-- Chisels&Bits
-- thermalDynamics
-- RefinedStorage
 - BloodMagic
-- Ad Astra
+- TheTwilightForest
+    - TwilightDecor
+    - TwilightForest:TheLostBlocks
+    - TwilightPaintings
+- Botania
+    - ManaGear
+    - BotanicalMachinery
+    - AIOT_Botania
+    - BotanicalCrates
+    - MythicBotany
+    - Creatania
+- Apotheosis
+- Theurgy
+- MysticalAgriculture
+    - MysticalAgricultureTieredCrystals
+### Armor&Accessories
+- Artifacts
+- Relics
+- TinkersConstruct/SilentGear
+    - Tinker'sReforged
+    - Tinker'sPlanner
+    - Tinkers'Integrations_and_Tweaks
+    - Tinkers'LevllingAddon
+### Technology
+#### Space
+- AdAstra
+  - PerAspera
+- BeyondEarth
+#### Storage
+- EnderStorage
+- RefinedStorage
+#### Automation
+- HostileNeuralNetworks
+- TiledCauldron
+- FabricDispenserCauldron
+- thermalDynamics
+- ImmersiveEnineering
+- AppliedEnergistics2
+  - Applied Botanics Addon
+  - AppliedEnergistics2WirelessTerminals
+  - AppliedMekanistics
+  - Create:AppliedKinetics
+  - AppliedCooking
+  - ME_Requester
+  - LazierAE2
+  - AE2CC_Bridge
+- Mekanism
+- Create
+    - CreateBigCannons
+    - createConfectionery
+    - CC:C_Bridge
+    - CreateEnchantmentIndustry
+    - CreateGoogles
+    - Create:Alloyed
+    - CreateDecoFabric
+    - Create:Misc&Things
+    - Create:ExtendedFlywheels
+    - CreateCafe
+    - Create:CrystalClear
+    - CreateCentralKitchen
+    - CreateSifting
+    - CreateEnderTransmission
+    - Create:ExtendedCogwheels
+    - CreateFactory
+    - CreateOreExcavation
+    - CreateCompactExp
+    - CompressedCreativity
+    - CreateBrokenBad
+    - CreateChromaticReturn
+    - Create:Astral
+      - AstralVinery
+    - Create:MountedStorages
+    - Create:TheFactoryMustGrow
+    - Create:Fabric&REIBugFix
+- CC:Restitched
+
+### Exploration
+- Cooking_for_Blockheads
+- Neapolitan
+- DimensionalPaintings
+- SwordDisplays
+- BiomesO'Plenty
+    - CompatO'Plenty
+- Macaw'sRoofs
+  - Macaw'sRoofs-BiomesO'Plenty
+- Macaw'sFences
+    - Macaw'sFences-BiomesO'Plenty
+- Macaw'sBridges
+    - Macaw'sBridges-BiomeO'Plenty
+- Macaw'sFurnitures
+  - Macaw'sFurnitures-BiomesO'Plenty
+- OhTheBiomesYou'llGo
+- SereneSeasons
+  - SeasonHUD
+- YungsBridges
+- BetterDefaultBiomes
+- Waystones
+- DimensionalDoors
+- Aquaculture2
+- Farmer's Delight
+    - CulturalDelights
+    - Brewin'AndChewin'
+    - LargeMeals
+    - TwilightDelight
+    - FestiveDelight
+    - Nether'sDelights
+    - CornDelight
+    - Miner'sDelight+
+    - Ender'sDelight
+    - End'sDelight
+    - GobberDelight
+    - DecorationDelight:Refurbished
+- Chisels&Bits
 - Aquamirae
 - VaultHunters
   - Sophisticatedbackpacks vaulthunters edition

@@ -15,7 +15,9 @@
 - Tough_As_Nails
 - EldritchMobs
 - NaturallyChargedCreepers
-
+- CalmMornings
+- GemCrabs
+- Spoiled
 ## QoL
 ### Visual
 - ReBlured
@@ -45,10 +47,18 @@
 - TreeHarvester
 - ReapMod
 - LapisReserve
+- WarriorRage
+- Torchhit!
+- Silkspawners
+- Wildfire'sFemaleGenderMod
+- AnvilNeverTooExpensive
+- QuickHarvest
 ### opt
 - Clumps
+- CullClouds
 ### multiplayer
 - Lootr
+- myLoot
 ### other
 - CeilingTorch
 - WaterloggedRestone
@@ -70,9 +80,12 @@
 - SkinnedLanterns
 - InventoryPets
 - BonsaiTrees3
+  
 
 ## Key mods
 ### Magic
+- Speels&Shields
+- PrimalMagick
 - ToolLeveling
 - InfusionTable
 - EnchantingInfuser
@@ -80,39 +93,52 @@
 - Lil'Wings
 - Spirit
 - BloodMagic
+  - BloodSmeltery
 - TheTwilightForest
-    - TwilightDecor
-    - TwilightForest:TheLostBlocks
-    - TwilightPaintings
+  - TwilightDecor
+  - TwilightForest:TheLostBlocks
+  - TwilightPaintings
+- SolarCraft
 - Botania
-    - ManaGear
-    - BotanicalMachinery
-    - AIOT_Botania
-    - BotanicalCrates
-    - MythicBotany
-    - Creatania
+  - ManaGear
+  - BotanicalMachinery
+  - AIOT_Botania
+  - BotanicalCrates
+  - MythicBotany
+  - Creatania
 - Apotheosis
 - Theurgy
 - MysticalAgriculture
-    - MysticalAgricultureTieredCrystals
+  - MysticalAgricultureTieredCrystals
 ### Armor&Accessories
+- WeaponLeveling
 - Artifacts
 - Relics
+- QualityEquipment
 - TinkersConstruct/SilentGear
-    - Tinker'sReforged
-    - Tinker'sPlanner
-    - Tinkers'Integrations_and_Tweaks
-    - Tinkers'LevllingAddon
+  - Tinker'sReforged
+  - Tinker'sPlanner
+  - Tinkers'Integrations_and_Tweaks
+  - Tinkers'LevllingAddon
+  - Tinkers'Rapier
+  - 
 ### Technology
 #### Space
 - AdAstra
   - PerAspera
 - BeyondEarth
+  - BeyondEarth:GiselleAddon
 #### Storage
 - EnderStorage
 - RefinedStorage
 #### Automation
+- NuclearScience
+- Electrodynamics
+- Witherproofed
 - HostileNeuralNetworks
+- DeepMobLearning:Refabricated
+  - ClothConfigAPI
+  - DeepMobLearning:Simulacrum
 - TiledCauldron
 - FabricDispenserCauldron
 - thermalDynamics
@@ -126,72 +152,108 @@
   - ME_Requester
   - LazierAE2
   - AE2CC_Bridge
+  - AE2Things
 - Mekanism
 - Create
-    - CreateBigCannons
-    - createConfectionery
-    - CC:C_Bridge
-    - CreateEnchantmentIndustry
-    - CreateGoogles
-    - Create:Alloyed
-    - CreateDecoFabric
-    - Create:Misc&Things
-    - Create:ExtendedFlywheels
-    - CreateCafe
-    - Create:CrystalClear
-    - CreateCentralKitchen
-    - CreateSifting
-    - CreateEnderTransmission
-    - Create:ExtendedCogwheels
-    - CreateFactory
-    - CreateOreExcavation
-    - CreateCompactExp
-    - CompressedCreativity
-    - CreateBrokenBad
-    - CreateChromaticReturn
-    - Create:Astral
-      - AstralVinery
-    - Create:MountedStorages
-    - Create:TheFactoryMustGrow
-    - Create:Fabric&REIBugFix
+  - CreateBigCannons
+  - createConfectionery
+  - CC:C_Bridge
+  - CreateEnchantmentIndustry
+  - CreateGoogles
+  - Create:Alloyed
+  - CreateDecoFabric
+  - Create:Misc&Things
+  - Create:ExtendedFlywheels
+  - CreateCafe
+  - Create:CrystalClear
+  - CreateCentralKitchen
+  - CreateSifting
+  - CreateEnderTransmission
+  - Create:ExtendedCogwheels
+  - CreateFactory
+  - CreateOreExcavation
+  - CreateCompactExp
+  - CompressedCreativity
+  - CreateBrokenBad
+  - CreateChromaticReturn
+  - Create:Astral
+    - AstralVinery
+  - Create:MountedStorages
+  - Create:TheFactoryMustGrow
+  - Create:Fabric&REIBugFix
+  - Create:Buffers&Beams
+  - CreateCurios
+  - CreateInfiniDrill
+  - CreateTrainAdditions
+  - Create:ElectricStonks
+  - CreateFoodAdditions
+  - CreateMechanicalExtruder
+  - Create:Armory
+  - CreateCompats
+  - CreateEncased
+  - Create:BrassCoated
+  - CreateDecorationCasing
+  - Create:Teleporters!
+  - Create:Supercharged
+  - Create:ModernTrainParts
+  - Create:ConnectBlockTextures
 - CC:Restitched
 
 ### Exploration
+- LavaJava
+- TableTopCraft
+- mega_meteors_mod
+- MOADECOR:BATH
+- LoFiRecordsToMineTo
+- YouAreSeeingDungeons
+- SimplyHotSprings
+- Telepad
 - Cooking_for_Blockheads
 - Neapolitan
 - DimensionalPaintings
 - SwordDisplays
 - BiomesO'Plenty
-    - CompatO'Plenty
+  - CompatO'Plenty
 - Macaw'sRoofs
   - Macaw'sRoofs-BiomesO'Plenty
 - Macaw'sFences
-    - Macaw'sFences-BiomesO'Plenty
+  - Macaw'sFences-BiomesO'Plenty
 - Macaw'sBridges
-    - Macaw'sBridges-BiomeO'Plenty
+  - Macaw'sBridges-BiomeO'Plenty
 - Macaw'sFurnitures
   - Macaw'sFurnitures-BiomesO'Plenty
+  - Macaw'sFurnitures-OhTheBiomesYou'llGo
 - OhTheBiomesYou'llGo
 - SereneSeasons
   - SeasonHUD
+  - SereneSeasons-Pam'sHarvestCraft2:CropsCompat
 - YungsBridges
 - BetterDefaultBiomes
 - Waystones
+  - WaystoneTowers
 - DimensionalDoors
 - Aquaculture2
 - Farmer's Delight
-    - CulturalDelights
-    - Brewin'AndChewin'
-    - LargeMeals
-    - TwilightDelight
-    - FestiveDelight
-    - Nether'sDelights
-    - CornDelight
-    - Miner'sDelight+
-    - Ender'sDelight
-    - End'sDelight
-    - GobberDelight
-    - DecorationDelight:Refurbished
+  - CulturalDelights
+  - Brewin'AndChewin'
+  - LargeMeals
+  - TwilightDelight
+  - FestiveDelight
+  - Nether'sDelights
+  - CornDelight
+  - Miner'sDelight+
+  - Ender'sDelight
+  - End'sDelight
+  - GobberDelight
+  - DecorationDelight:Refurbished
+  - JustEnoughFarmer'sRecipes
+  - PineappleDelight
+  - CoffeeDelight
+  - BettasDlight
+  - Farmer'sCompats
+  - respiteful
+  - ItalianDelight
+  - GalosphereDelight
 - Chisels&Bits
 - Aquamirae
 - VaultHunters
